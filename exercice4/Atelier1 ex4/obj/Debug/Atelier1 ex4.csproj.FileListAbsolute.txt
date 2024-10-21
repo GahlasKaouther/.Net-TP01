@@ -1,0 +1,21 @@
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.exe.config
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.exe
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.pdb
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.AssemblyReference.cache
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1_ex4.Form1.resources
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1_ex4.Properties.Resources.resources
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.GenerateResource.cache
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.CoreCompileInputs.cache
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.exe
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.pdb
+D:\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1_ex4.Btn_Reset.resources
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.AssemblyReference.cache
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1_ex4.Btn_Reset.resources
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1_ex4.Properties.Resources.resources
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.GenerateResource.cache
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.csproj.CoreCompileInputs.cache
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.exe
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\obj\Debug\Atelier1 ex4.pdb
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.exe.config
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.exe
+D:\2emeDSI\Atelier.NET\tp1\exercice4\Atelier1 ex4\bin\Debug\Atelier1 ex4.pdb
